@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ruanmarcos
 - 👀 I’m interested in videogames, programming languages and food haha
 - 🌱 I’m currently learning Python and JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me by email (ruanmarcos97@hotmail.com)
 
 <!---
 ruanmarcos/ruanmarcos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
